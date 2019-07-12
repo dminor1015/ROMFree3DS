@@ -8,3 +8,4 @@ First Dontwait00 was also helping writing this tool, but he stopped with it as I
 
 ## Credits
 [PKSM](https://github.com/FlagBrew/PKSM/) I use some of their content to write this application.
+[Kyrios](http://discord.gg/hkvCkaH) My discord server.
